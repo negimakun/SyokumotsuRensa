@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickMove", "ClickMove\ClickMove.csproj", "{8CE3385A-C30A-46D7-9DAB-11D493F86FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE3385A-C30A-46D7-9DAB-11D493F86FCB}.Debug|x86.ActiveCfg = Debug|x86
+		{8CE3385A-C30A-46D7-9DAB-11D493F86FCB}.Debug|x86.Build.0 = Debug|x86
+		{8CE3385A-C30A-46D7-9DAB-11D493F86FCB}.Release|x86.ActiveCfg = Release|x86
+		{8CE3385A-C30A-46D7-9DAB-11D493F86FCB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FED6935-1B43-4F2F-B1FC-5B722CB5D4A6}
+	EndGlobalSection
+EndGlobal
